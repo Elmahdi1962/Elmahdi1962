@@ -8,4 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elmahdi1962)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Elmahdi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Elmahdi1962)](https://github.com/anuraghazra/github-readme-stats)
