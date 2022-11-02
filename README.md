@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elmahdi Mamoun from Morocco
-- 👀 I’m a Software Engineer, interested in front-end web development
+- 👀 I’m a Software Engineer, interested in frontEnd web development
 - 🌱 I’m currently on an Internship at Project Flux
 - 📫 How to reach me email : mamounelmahdi1962@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/elmahdi-mamoun-a74a1a1bb/)
