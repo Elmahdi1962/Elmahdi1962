@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elmahdi Mamoun from Morocco
+- 👋 Hi, I’m Elmahdi from Morocco
 - 👀 I’m a Software Engineer, interested in frontEnd web development
 - 🌱 I’m currently working on personal Projects
 - 📫 How to reach me email : mamounelmahdi1962@gmail.com
