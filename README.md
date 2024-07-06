@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elmahdi from Morocco
 - 👀 I’m a Software Engineer, interested in frontEnd web development
-- 🌱 I’m currently Busy with my job
+- 🌱 I’m currently available
 - 📫 How to reach me email : mamounelmahdi1962@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/elmahdi-mamoun-a74a1a1bb/)
 
